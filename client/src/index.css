@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+	@apply flex justify-center items-center w-screen h-screen text-gray-200 bg-green-700;
+}
